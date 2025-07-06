@@ -14,7 +14,7 @@ Me apasiona la tecnología, el desarrollo de software, el diseño y la creación
 - **Sistemas:** Windows, Linux, redes, hardware, mantenimiento
 - **Herramientas:** Git, GitHub, VS Code, Figma
 - **Diseño y edición:** Photoshop (básico), Adobe Premiere Pro, Filmora, CapCut...
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,sqlite,androidstudio,git,github,figma,vscode,photoshop,premiere&perline=8)](https://skillicons.dev)
 ---
 
 ## 🚀 Proyectos destacados
