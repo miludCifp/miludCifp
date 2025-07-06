@@ -14,6 +14,7 @@ Me apasiona la tecnología, el desarrollo de software, el diseño y la creación
 - **Sistemas:** Windows, Linux, redes, hardware, mantenimiento
 - **Herramientas:** Git, GitHub, VS Code, Figma
 - **Diseño y edición:** Photoshop (básico), Adobe Premiere Pro, Filmora, CapCut...
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,sqlite,androidstudio,git,github,figma,vscode,photoshop,premiere&perline=8)](https://skillicons.dev)
 ---
 
@@ -22,8 +23,8 @@ Me apasiona la tecnología, el desarrollo de software, el diseño y la creación
 - 🔧 **[PrestaTool](https://github.com/miludCifp/PrestaTool)**  
   Plataforma web de alquiler de herramientas, con panel de administración y control de usuarios.
 
-- 📲 **[App de gestión de libros favoritos Android](https://github.com/miludCifp/App_BuscaBook)**  
-  Aplicación nativa en Java para Android (Agenda de libros favoritos).
+- 📲 **[BuscaBook](https://github.com/miludCifp/App_BuscaBook)**  
+  Aplicación nativa en Java para Android (App de gestión de libros favoritos).
 
 ---
 
@@ -45,7 +46,7 @@ Me apasiona la tecnología, el desarrollo de software, el diseño y la creación
 
 ## 📫 ¿Cómo contactarme?
 
-- ✉️ [medmilel@gmail.com]
+- ✉️ medmilel@gmail.com
 
 ---
 
