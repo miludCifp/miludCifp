@@ -47,6 +47,7 @@ Me apasiona la tecnología, el desarrollo de software, el diseño y la creación
 ## 📫 ¿Cómo contactarme?
 
 - ✉️ medmilel@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-milud/)
 
 ---
 
